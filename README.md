@@ -3,3 +3,5 @@
 This was made using AWS and ReactJS.
 
 Added SSH.
+
+HTML part done.
